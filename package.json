@@ -1,0 +1,17 @@
+{
+  "name": "lite-sync",
+  "version": "1.0.0",
+  "description": "A light demo to start sync.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Nya Candy <dev@candinya.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crossbell.js": "^0.19.7",
+    "got": "^12.6.0"
+  }
+}
